@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 28/11/2024
-## Register Number: 24001418
-## Name: A.Abheek
+# Date: 15/03/2025
+## Register Number: 22001318
+## Name: Arunkumar.P
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
